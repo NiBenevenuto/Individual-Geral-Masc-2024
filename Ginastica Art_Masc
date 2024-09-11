@@ -1,11 +1,12 @@
-Nome,Data de Nascimento,Altura (m),Nacionalidade,Gênero,Pontuação Total,Colocação
-Sofia Raffaeli,19/02/2004,1.57,Italiana,Feminino,139.100,1
-Darja Varfolomeev,04/11/2006,1.7,Alemã,Feminino,136.850,2
-Boryana Kaleyn,23/08/2000,1.68,Búlgara,Feminino,136.450,3
-Taisiia Onofriichuk,26/05/2008,1.65,Ucrânica,Feminino,135.750,4
-Margarita Kolosov,11/03/2004,1.7,Alemã,Feminino,131.500,5
-Ekaterina Vedeneeva,23/06/1994,1.64,Eslovena,Feminino,130.800,6
-Daria Atamanov,06/12/2005,1.67,Israelita,Feminino,130.450,7
-Barbara Domingos,02/03/2000,1.66,Brasileira,Feminino,129.750,8
-Milena Baldassarri,16/10/2001,1.73,Italiana,Feminino,129.250,9
-Zilu Wang,18/06/2003,1.64,Chinesa,Feminino,128.100,10
+Nome,Data de Nascimento,Altura,Nacionalidade,Gênero,Pontuação Total,Colocação
+Shinnosuke Oka,31/10/03,1.55,Japonesa,Masculino,86.832,1
+Boheng Zhang,04/03/00,1.65,Chinesa,Masculino,86.599,2
+Ruoteng Xiao,30/01/96,1.6,Chinesa,Masculino,86.364,3
+Illia Kovtun,10/08/03,1.77,Ucraniana,Masculino,86.165,4
+Joe Fraser,06/12/98,1.68,Britânica,Masculino,85.532,5
+Daiki Hashimoto,07/08/01,1.68,Japonesa,Masculino,84.598,6
+Jake Jarman,03/12/01,1.57,Britânica,Masculino,84.565,7
+Oleg Verniaiev,29/09/93,1.61,Ucraniana,Masculino,84.399,8
+Krisztofer Mészáros,05/09/01,1.66,Húngara,Masculino,83.899,9
+Matteo Giubellini,07/11/04,1.85,Suíça,Masculino,83.332,10
+
